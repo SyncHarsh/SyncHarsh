@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**SyncHarsh/SyncHarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **SyncHarsh/SyncHarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-                                                                      https://github.com/user-attachments/assets/0ba2d886-9774-4df7-8467-50455b5a9491
+- ⚡ Fun fact: ... -->
