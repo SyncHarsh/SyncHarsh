@@ -1,8 +1,5 @@
 <h1 align="center">Hello there, this is <img src="https://github.com/SyncHarsh/SyncHarsh/blob/main/assets/name2.gif" width="299"></h1>
 
-<span style="color:red">This text is red.</span>
-<span style="color:blue">This text is blue.</span>
-
 **SyncHarsh/SyncHarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
