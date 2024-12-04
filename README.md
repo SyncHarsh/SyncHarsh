@@ -2,7 +2,7 @@
 
 <h1><img src="/assets/work2.gif"></h1>
 
-# About Me:
+<h1 align="center">About Me:</h1>
 
 
 > :bust_in_silhouette: **Name** - Harshavardhana Bharati
@@ -15,7 +15,7 @@
 
 <h1></h1>
 
-# Connect With Me:
+<h1 align="center">Connect with Me:</h1>
 
 
 <p align="center">
