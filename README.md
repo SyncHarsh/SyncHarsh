@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, this is <img src="https://github.com/SyncHarsh/SyncHarsh/blob/main/assets/name2.gif" width="299"></h1>
+<h1 align="center">Hello there, this is <img src="/assets/name2.gif" width="299"></h1>
 
 <img src="/assets/work2.gif">
 
