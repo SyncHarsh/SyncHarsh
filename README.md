@@ -5,3 +5,4 @@
 # About Me:
 
 > :bust_in_silhouette: - Harshavardhana Bharati
+> :earth_asia: - Bihar, India
