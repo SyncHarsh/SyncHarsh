@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, this is <img src="https://github.com/SyncHarsh/SyncHarsh/blob/main/assets/name2.gif" width="299"></h1>
+<h1 align="center" style="color:red">Hello there, this is <img src="https://github.com/SyncHarsh/SyncHarsh/blob/main/assets/name2.gif" width="299"></h1>
 
 **SyncHarsh/SyncHarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
