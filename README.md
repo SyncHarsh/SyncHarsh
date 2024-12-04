@@ -12,3 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+```diff
++ This is green text
+- This is red text
+! This is orange text
+# This is gray text
