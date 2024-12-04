@@ -6,7 +6,7 @@
 
 # About Me:
 
-> [!CAUTION]
+> <!--[!CAUTION]-->
 > :bust_in_silhouette: **Name** - Harshavardhana Bharati
 > 
 > :earth_asia: **Location** - Bihar, India
