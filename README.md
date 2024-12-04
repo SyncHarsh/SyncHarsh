@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 + This is green text
 - This is red text
 ! This is orange text
-# This is gray text
-This is green text
+- This is gray text
