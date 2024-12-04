@@ -11,3 +11,7 @@
 > :octocat: **Pronouns** - He/Him
 >
 > :ab: **Languages** - Hindi, English
+
+
+> 💡 **Tip:** Use this to highlight an important idea.
+> ⚠️ **Warning:** Be cautious with this step.
