@@ -24,5 +24,5 @@
 <a href="https://instagram.com/im45145v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im45145v" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/im45145v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="im45145v" height="30" width="40" /></a>
 
-<a align="center">Twitter LinkedIn Instagram LeetCode</a>
+<h2 align="center">Twitter LinkedIn Instagram LeetCode</h2>
 </p>
