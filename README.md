@@ -19,8 +19,8 @@
 
 
 <p align="center">
-<a href="https://twitter.com/im45145v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im45145v" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/im45145v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="im45145v" height="30" width="40" /></a>
-<a href="https://instagram.com/im45145v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im45145v" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/im45145v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="im45145v" height="30" width="40" /></a>
+<a href="https://twitter.com/im45145v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="im45145v" height="30" width="40" /> Twitter </a>
+<a href="https://linkedin.com/in/im45145v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="im45145v" height="30" width="40" /> LinkedIn </a>
+<a href="https://instagram.com/im45145v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im45145v" height="30" width="40" /> Instagram </a>
+<a href="https://www.leetcode.com/im45145v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="im45145v" height="30" width="40" /> LeetCode </a>
 </p>
