@@ -7,3 +7,7 @@
 > :bust_in_silhouette: - Harshavardhana Bharati
 > 
 > :earth_asia: - Bihar, India
+>
+> :octocat: - He/Him
+>
+> :ab: - Hindi, English
