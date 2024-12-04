@@ -4,10 +4,10 @@
 
 # About Me:
 
-> :bust_in_silhouette: - Harshavardhana Bharati
+> :bust_in_silhouette: **Name** - Harshavardhana Bharati
 > 
-> :earth_asia: - Bihar, India
+> :earth_asia: **Location** - Bihar, India
 >
-> :octocat: - He/Him
+> :octocat: **Pronouns** - He/Him
 >
-> :ab: - Hindi, English
+> :ab: **Languages** - Hindi, English
