@@ -2,6 +2,6 @@
 
 <img src="/assets/work2.gif">
 
-#About Me:
+# About Me:
 
 > :bust_in_silhouette: - Harshavardhana Bharati
